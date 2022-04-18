@@ -1,0 +1,81 @@
+    .search-box{
+        
+        width: 265px;
+    }
+    
+    
+    
+.img-logo
+{
+width:300%;
+height:180%;
+padding-left:10%;
+}
+
+
+    .navbar{
+        
+       padding:15px;
+        background-color:#505050;
+    }
+
+
+
+
+    .container {
+        border: 2px solid whitesmoke;
+        width: 500px;
+        height: 500px;
+        margin: 90px auto;
+        background-color: white;
+    }
+
+    .log {
+        margin: 0px 0px 40px 0px;
+        position: relative;
+        left: 170px;
+        color:#505050;
+    }
+
+    label {
+        position: relative;
+        font-weight: 700;
+        margin: 10px 0px;
+        left: 90px;
+    }
+    form input[name=name] {
+        margin: 0px 0px 12px 0px;
+        padding: 10px;
+        width: 265px;
+        position: relative;
+        left: 90px;
+    }
+
+    form input[name=email] {
+        margin: 0px 0px 35px 0px;
+        padding: 10px;
+        width: 265px;
+        position: relative;
+        left: 90px;
+
+    }
+
+    form input[name=password] {
+        margin: 0px 0px 40px 0px;
+        padding: 10px;
+        width: 265px;
+        position: relative;
+        left: 90px;
+    }
+
+    form .btnn {
+        margin: 0px 0px 12px 0px;
+        padding: 10px;
+        width: 290px;
+        position: relative;
+        left: 90px;
+        background-color:DodgerBlue;
+    }
+
+    
+   
